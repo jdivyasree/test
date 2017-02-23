@@ -7,7 +7,10 @@ How is the staging area different from the working directory and the repository?
       contains the files which are commited to the repository. Staging area contains files which can be commited to the
       repository
 
+How can you use the staging area to make sure you have one commit per logical change?
+      by using "git diff --staged"
 
+How do the diagrams help you visualize the branch structure?
+      Good
 
-
-
+#############################################################
